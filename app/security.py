@@ -1,5 +1,4 @@
 import hashlib
-import *
 
 def eval_user_input(user_code):
     return eval(user_code)  # ❌ dangerous
